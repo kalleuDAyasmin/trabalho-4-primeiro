@@ -8,7 +8,7 @@
 }
 
 .cabeçalho {
-    background-color: var(--branco);
+    background-color:#8B008B;
     display: flex;
     justify-content: space-between;
     align-items: center;
